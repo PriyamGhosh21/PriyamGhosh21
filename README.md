@@ -1,46 +1,104 @@
 <h1 align="center">Hi, I'm Priyam 👋</h1>
 
 <p align="center">
-  <b>Aspiring Full‑Stack Web Developer</b><br/>
-  Building clean dashboards, experimenting with Web3 & NFTs, and learning something new every day.
+  <b>Digital Marketing & Automation Specialist</b><br/>
+  Helping businesses scale with WordPress, SEO optimization, and smart automation workflows. Passionate about streamlining operations through Zapier, Make, and custom scripts.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🎯 What I Do
 
-- 🌱 Currently learning **JavaScript, React, PHP, and Web3 basics**
-- 🧩 Love working on **admin dashboards** and **NFT tools**
-- 🎯 Goal for 2026: ship more real‑world projects and become job‑ready as a web developer
-- 📍 Based in **Ranaghat, West Bengal, India**
+- 📱 **WordPress Development** - Building scalable websites and ERP systems for businesses
+- 🔍 **SEO & Digital Marketing** - Optimizing websites for visibility and conversions
+- ⚙️ **Workflow Automation** - Creating seamless integrations with Zapier, Make, and custom scripts
+- 💻 **Vibe Coding** - Building custom solutions for creative automation projects
+- 🚀 **Business Process Optimization** - Transforming manual processes into automated pipelines
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Expertise
 
-- **Languages:** JavaScript, PHP, HTML, CSS  
-- **Frontend:** React (learning), Tailwind / Bootstrap  
-- **Backend:** PHP (basic), APIs  
-- **Tools & Platforms:** Git, GitHub, Netlify, VS Code, Chrome DevTools  
+**Core Skills:**
+- **Marketing Platforms:** WordPress, SEO Tools, Google Analytics, Google Search Console
+- **Automation Tools:** Zapier, Make (formerly Integromat), Google Sheets API
+- **Programming:** PHP, JavaScript, Google Apps Script
+- **Learning:** Python, SQL
+- **Specialization:** Vibe Coding & Automation Workflows
+
+**Languages & Frameworks:**
+- JavaScript, PHP, HTML, CSS
+- Google Apps Script
+- Python (learning)
+- SQL (learning)
+
+**Tools & Platforms:**
+- WordPress, Zapier, Make, Google Suite
+- Git, GitHub, VS Code
+- Google Sheets & Forms
+- Browser DevTools
+
+---
+
+### 💡 Specializations
+
+✨ **Vibe Coding & Automation** - My strongest passion!
+- Building creative automation solutions
+- Designing low-code/no-code workflows
+- Integrating multiple platforms seamlessly
+- Custom script development for business needs
 
 ---
 
 ### 🎨 Vibe Coding Projects
 
-Here are a few projects I'm proud of:
+Here are some exciting projects I'm proud of:
 
-  - 🔗 **[Tiffin-Service-Management-System (Used By Tiffingrab.ca)](https://github.com/PriyamGhosh21/Tiffin-Service-Management-System)**  
+- 🔗 **[Tiffin-Service-Management-System](https://github.com/PriyamGhosh21/Tiffin-Service-Management-System)**  
   A custom WordPress-based ERP for meal delivery services – streamlining operations from order to delivery with automated subscriptions, dynamic menu composition, and delivery routing.
 
 - ⚽ **[Football-Match-Player-Statistics-Automation-Pipeline](https://github.com/PriyamGhosh21/Football-Match-Player-Statistics-Automation-Pipeline)**  
   Automated Python pipeline for extracting and analyzing football match player statistics – data validation, processing, and comprehensive performance metrics.
 
+- 📊 **[Admin-dashboardss](https://github.com/PriyamGhosh21/Admin-dashboardss)**  
+  A custom admin dashboard UI – practicing layouts, cards, tables, and responsive design for business dashboards.
 
-> More projects coming soon — stay tuned! 🚀
+- 🔗 **[netlify-alchemy-nft-explorer-template](https://github.com/PriyamGhosh21/netlify-alchemy-nft-explorer-template)**  
+  NFT explorer template using Alchemy – exploring Web3 and blockchain data integration.
+
+> More automation projects coming soon — stay tuned! 🚀
 
 ---
 
-### 📈 GitHub Stats
+### 📈 My Journey
+
+- 🎓 Mastering **WordPress & SEO** for digital transformation
+- 🤖 Expert in **Zapier & Make automation** workflows
+- 💻 Proficient in **PHP & JavaScript** for custom solutions
+- 📚 Actively learning **Python & SQL** for advanced data processing
+- 🌟 Passionate about **Vibe Coding** - building creative, efficient automation
+
+---
+
+### 🎯 Goals for 2026
+
+- 📱 Build 5+ complete automation systems using Zapier/Make
+- 🔐 Master SQL for database-driven solutions
+- 🐍 Become proficient in Python for data analysis
+- 🚀 Help 20+ businesses automate their workflows
+- 💡 Create a portfolio showcasing Vibe Coding solutions
+
+---
+
+### 💬 Interests & Expertise Areas
+
+✅ **Strong:** Automation, Vibe Coding, WordPress, Zapier/Make, Google Apps Script
+✅ **Good Knowledge:** SEO, Digital Marketing, PHP, JavaScript
+🌱 **Learning:** Python, SQL, Advanced Analytics
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyamGhosh21&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -52,10 +110,17 @@ Here are a few projects I'm proud of:
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
-- ✉️ Email: [your email]  
-- 💼 LinkedIn: [your LinkedIn profile link]  
-- 🐦 Twitter/X: [optional]  
+- 💼 **LinkedIn:** [Add your LinkedIn profile link]
+- 📧 **Email:** [your email]
+- 🌐 **Portfolio:** [Coming soon]
+- 💬 **Interested in automation?** Let's build something amazing together!
 
-If you like my work or have suggestions, feel free to open an issue or reach out!
+If you're looking to automate your business processes or need a WordPress solution, feel free to reach out. I love solving problems through smart automation!
+
+---
+
+<p align="center">
+  <i>"Automation is not about replacing work, it's about multiplying efficiency."</i>
+</p>

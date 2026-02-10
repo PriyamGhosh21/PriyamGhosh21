@@ -25,7 +25,7 @@
 
 ---
 
-### 📂 Featured Projects
+### 🎨 Vibe Coding Projects
 
 Here are a few projects I'm proud of:
 
@@ -34,6 +34,10 @@ Here are a few projects I'm proud of:
 
 - 📊 **[Admin-dashboardss](https://github.com/PriyamGhosh21/Admin-dashboardss)**  
   A custom admin dashboard UI – practicing layouts, cards, tables, and responsive design.
+
+  - 🔗 **[Tiffin-Service-Management-System](https://github.com/PriyamGhosh21/Tiffin-Service-Management-System)**  
+  A custom WordPress-based ERP for meal delivery services – streamlining operations from order to delivery with automated subscriptions, dynamic menu composition, and delivery routing.
+
 
 > More projects coming soon — stay tuned! 🚀
 

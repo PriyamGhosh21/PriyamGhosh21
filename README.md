@@ -38,6 +38,9 @@ Here are a few projects I'm proud of:
   - 🔗 **[Tiffin-Service-Management-System (Used By Tiffingrab.ca)](https://github.com/PriyamGhosh21/Tiffin-Service-Management-System)**  
   A custom WordPress-based ERP for meal delivery services – streamlining operations from order to delivery with automated subscriptions, dynamic menu composition, and delivery routing.
 
+- ⚽ **[Football-Match-Player-Statistics-Automation-Pipeline](https://github.com/PriyamGhosh21/Football-Match-Player-Statistics-Automation-Pipeline)**  
+  Automated Python pipeline for extracting and analyzing football match player statistics – data validation, processing, and comprehensive performance metrics.
+
 
 > More projects coming soon — stay tuned! 🚀
 

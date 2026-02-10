@@ -60,12 +60,6 @@ Here are some exciting projects I'm proud of:
 - ⚽ **[Football-Match-Player-Statistics-Automation-Pipeline](https://github.com/PriyamGhosh21/Football-Match-Player-Statistics-Automation-Pipeline)**  
   Automated Python pipeline for extracting and analyzing football match player statistics – data validation, processing, and comprehensive performance metrics.
 
-- 📊 **[Admin-dashboardss](https://github.com/PriyamGhosh21/Admin-dashboardss)**  
-  A custom admin dashboard UI – practicing layouts, cards, tables, and responsive design for business dashboards.
-
-- 🔗 **[netlify-alchemy-nft-explorer-template](https://github.com/PriyamGhosh21/netlify-alchemy-nft-explorer-template)**  
-  NFT explorer template using Alchemy – exploring Web3 and blockchain data integration.
-
 > More automation projects coming soon — stay tuned! 🚀
 
 ---
@@ -112,8 +106,7 @@ Here are some exciting projects I'm proud of:
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** [Add your LinkedIn profile link]
-- 📧 **Email:** [your email]
+- 📧 **Email:** [Priyam.ghosh18@gmail.com]
 - 🌐 **Portfolio:** [Coming soon]
 - 💬 **Interested in automation?** Let's build something amazing together!
 

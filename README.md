@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Priyam 👋</h1>
 
-<!--
-**PriyamGhosh21/PriyamGhosh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Aspiring Full‑Stack Web Developer</b><br/>
+  Building clean dashboards, experimenting with Web3 & NFTs, and learning something new every day.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🌱 Currently learning **JavaScript, React, PHP, and Web3 basics**
+- 🧩 Love working on **admin dashboards** and **NFT tools**
+- 🎯 Goal for 2026: ship more real‑world projects and become job‑ready as a web developer
+- 📍 Based in **Ranaghat, West Bengal, India**
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** JavaScript, PHP, HTML, CSS  
+- **Frontend:** React (learning), Tailwind / Bootstrap  
+- **Backend:** PHP (basic), APIs  
+- **Tools & Platforms:** Git, GitHub, Netlify, VS Code, Chrome DevTools  
+
+---
+
+### 📂 Featured Projects
+
+Here are a few projects I'm proud of:
+
+- 🔗 **[netlify-alchemy-nft-explorer-template](https://github.com/PriyamGhosh21/netlify-alchemy-nft-explorer-template)**  
+  NFT explorer template using Alchemy – exploring Web3 and blockchain data.
+
+- 📊 **[Admin-dashboardss](https://github.com/PriyamGhosh21/Admin-dashboardss)**  
+  A custom admin dashboard UI – practicing layouts, cards, tables, and responsive design.
+
+> More projects coming soon — stay tuned! 🚀
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyamGhosh21&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamGhosh21&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- ✉️ Email: [your email]  
+- 💼 LinkedIn: [your LinkedIn profile link]  
+- 🐦 Twitter/X: [optional]  
+
+If you like my work or have suggestions, feel free to open an issue or reach out!
